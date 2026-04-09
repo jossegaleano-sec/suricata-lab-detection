@@ -24,7 +24,7 @@ Se realizó un escaneo con **Nmap** desde la máquina atacante para identificar 
 ##  4. Explotación y Detección
 Se procedió a realizar un acceso mediante "smbclient". El IDS Suricata generó alertas en tiempo real, identificando tanto el escaneo previo como la sesión NTLM establecida.
 
-![Ataque SMB](./Ataque%20SMBclient%20desde%20MV%20atacante%20kali.jpeg)
+![Ataque SMB](./ataque%20smbclient%20desde%20mv%20atacante%20kali.jpeg)
 ![Alertas Suricata](./muestra%20alertas%20suricata%20ids.jpeg)
 
 ## 5. Análisis de Resultados (SOC)
