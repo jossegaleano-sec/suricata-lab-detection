@@ -8,7 +8,7 @@ Se utilizó VirtualBox para crear un entorno aislado con una red **Host-Only**.
 * **Atacante:** Kali Linux (192.168.56.101)
 * **Víctima:** Windows 10 (192.168.56.102)
 
-![Configuración de Red](./configuración%20de%20red.jpeg)
+![Configuración de Red](./configuracion%20de%20red.jpeg)
 
 ##  2. Preparación y Reglas de IDS
 Se configuró Suricata con reglas personalizadas en "local.rules" para detectar tráfico ICMP (ping) y escaneos de puertos TCP. Para asegurar la detección, se desactivó temporalmente el firewall en la máquina víctima.
