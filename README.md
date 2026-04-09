@@ -14,7 +14,7 @@ Se utilizó VirtualBox para crear un entorno aislado con una red **Host-Only**.
 Se configuró Suricata con reglas personalizadas en "local.rules" para detectar tráfico ICMP (ping) y escaneos de puertos TCP. Para asegurar la detección, se desactivó temporalmente el firewall en la máquina víctima.
 
 ![Reglas IDS](./Normas%20locales:%20MIS%20Reglas%20ids.jpeg)
-![Firewall Desactivado](./desactivación%20w.defender%20en%20victima.jpeg)
+![Firewall Desactivado](./desactivacion%20w.defender%20en%20victima.jpeg)
 
 ##  3. Fase de Reconocimiento
 Se realizó un escaneo con **Nmap** desde la máquina atacante para identificar servicios vulnerables, detectando los puertos 135, 139 y 445 (SMB) abiertos.
