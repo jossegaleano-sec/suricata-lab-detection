@@ -1,4 +1,4 @@
-# 🔐 Suricata IDS/IPS Lab – Network Threat Detection
+
 # 🔐 Suricata IDS/IPS Lab – Network Threat Detection
 
 ## 📌 Project Description
