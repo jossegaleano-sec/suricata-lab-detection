@@ -13,7 +13,7 @@ Se utilizó VirtualBox para crear un entorno aislado con una red **Host-Only**.
 ##  2. Preparación y Reglas de IDS
 Se configuró Suricata con reglas personalizadas en "local.rules" para detectar tráfico ICMP (ping) y escaneos de puertos TCP. Para asegurar la detección, se desactivó temporalmente el firewall en la máquina víctima.
 
-![Reglas IDS](./Normas%20locales%3A%20MIS%20Reglas%20ids.jpeg)
+![Reglas IDS](./normas%20locales%20mis%20reglas%20ids.jpeg)
 ![Firewall Desactivado](./desactivacion%20w.defender%20en%20victima.jpeg)
 
 ##  3. Fase de Reconocimiento
